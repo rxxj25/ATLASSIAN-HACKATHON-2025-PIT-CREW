@@ -181,3 +181,65 @@ forge install --sharing
 - [ ] Export functionality
 
 ---
+
+## 🏆 Hackathon Submission
+
+**App ID**: `edee2df5-2f0a-4645-bd35-e068c5cb46f8`
+
+**Categories**:
+- Apps for Software Teams
+- Best Use of Forge Custom UI
+- Best Integration
+
+**Demo Video**: [Link to YouTube]
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+1. Fork the project
+2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+## 👤 Author
+
+**Your Name**
+- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+- Hackathon: [Devpost Profile](https://devpost.com/YOUR_USERNAME)
+
+---
+
+## 🙏 Acknowledgments
+
+- Built with [Atlassian Forge Platform](https://developer.atlassian.com/platform/forge/)
+- Inspired by Formula 1 pit crew efficiency
+- Created for [Codegeist Hackathon 2024](https://codegeist.devpost.com/)
+
+---
+
+## 📸 Screenshots
+
+### Pit Crew Dashboard
+![Dashboard](docs/screenshots/dashboard.png)
+
+### Auto Retro Macro
+![Retro Macro](docs/screenshots/retro-macro.png)
+
+### Issue Panel
+![Issue Panel](docs/screenshots/issue-panel.png)
+
+---
+
+**Made with ❤️ for the Atlassian Community**
