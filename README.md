@@ -8,7 +8,10 @@
 
 **Tornado** is an Atlassian Forge app that provides real-time development metrics and automated workflows for software teams using Jira and Confluence.
 
-**Built for**: [Atlassian Codegeist Hackathon 2024](https://codegeist.devpost.com/)
+**Built for**: Atlassian Codegeist Hackathon 2025
+
+**Team Leader**: Rajdeep Bandyopadhaya (rajdeep04@icloud.com)
+**Team Member**: Aniket Arya (arya.aniket9835@gmail.com)
 
 ---
 
@@ -191,7 +194,7 @@ forge install --sharing
 - Best Use of Forge Custom UI
 - Best Integration
 
-**Demo Video**: [Link to YouTube]
+**Demo Video**: 
 
 ---
 
@@ -213,11 +216,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 👤 Author
-
-**Your Name**
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- Hackathon: [Devpost Profile](https://devpost.com/YOUR_USERNAME)
 
 ---
 
@@ -229,17 +227,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 📸 Screenshots
 
-### Pit Crew Dashboard
-![Dashboard](docs/screenshots/dashboard.png)
-
-### Auto Retro Macro
-![Retro Macro](docs/screenshots/retro-macro.png)
-
-### Issue Panel
-![Issue Panel](docs/screenshots/issue-panel.png)
-
----
 
 **Made with ❤️ for the Atlassian Community**
