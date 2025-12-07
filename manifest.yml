@@ -1,0 +1,48 @@
+modules:
+  jira:globalPage:
+    - key: tornado-global-dashboard
+      resource: main
+      resolver:
+        function: resolver
+      title: Pit Crew Dashboard
+      icon: https://developer.atlassian.com/platform/forge/images/icons/issue-panel-icon.svg
+  jira:issuePanel:
+    - key: tornado-issue-panel
+      resource: main
+      resolver:
+        function: resolver
+      title: Pit Crew Actions
+      icon: https://developer.atlassian.com/platform/forge/images/icons/issue-panel-icon.svg
+  macro:
+    - key: tornado-retro-macro
+      resource: main
+      resolver:
+        function: resolver
+      title: Auto Retro
+      description: Generates a retrospective page based on sprint data.
+  scheduledTrigger:
+    - key: tornado-sprint-trigger
+      function: sprint-trigger
+      interval: hour
+  function:
+    - key: resolver
+      handler: index.handler
+    - key: sprint-trigger
+      handler: index.sprintTrigger
+resources:
+  - key: main
+    path: static/hello-world/build
+app:
+  runtime:
+    name: nodejs22.x
+    memoryMB: 256
+    architecture: arm64
+  id: ari:cloud:ecosystem::app/edee2df5-2f0a-4645-bd35-e068c5cb46f8
+permissions:
+  scopes:
+    - read:space:confluence
+    - write:page:confluence
+    - read:jira-work
+    - write:jira-work
+    - storage:app
+    - read:confluence-space.summary
