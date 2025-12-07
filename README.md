@@ -58,7 +58,7 @@ Background data collection with hourly triggers:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/tornado.git
+   git clone https://github.com/rxxj25/ATLASSIAN-HACKATHON-2025-PIT-CREW.git
    cd tornado
    ```
 
