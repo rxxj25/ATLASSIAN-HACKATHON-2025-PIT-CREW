@@ -225,7 +225,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - Built with [Atlassian Forge Platform](https://developer.atlassian.com/platform/forge/)
 - Inspired by Formula 1 pit crew efficiency
-- Created for [Codegeist Hackathon 2024](https://codegeist.devpost.com/)
+- Created for [Codegeist Hackathon 2025](https://codegeist.devpost.com/)
 
 ---
 
